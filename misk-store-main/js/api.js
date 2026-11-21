@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "306993027531";
+const WHATSAPP_NUMBER = "+963993324820";
 
 function whatsappUrl(product, quantity = 1) {
   const message = product
